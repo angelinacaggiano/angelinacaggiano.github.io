@@ -1,35 +1,35 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Angelina Caggiano",
+    "label": "PhD Candidate",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "acaggiano@umass.edu",
+    "phone": "(781) 254-9435",
+    "url": "https://angelinacaggiano.github.io",
+    "summary": "A PhD Candidate in Civil & Environmental Engineering at the University of Massachusetts Amherst. Specializes in transportation, traffic safety, and vulnerable road users.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "132 Natural Resources Road",
+      "postalCode": "MA 01002",
+      "city": "Amherst",
       "countryCode": "US",
-      "region": "California"
+      "region": "Massachusetts"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "angelina-caggiano",
+        "url": "www.linkedin.com/in/angelina-caggiano"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
+      "name": "College of Engineering, University of Massachusetts Amherst",
+      "position": "PhD Candidate in Transportation Engineering",
       "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "startDate": "2022-09-01",
+      "endDate": "2026-05-01",
+      "summary": "Anticipated completion in May 2026",
       "highlights": ["Relativity"]
     }
   ],
